@@ -16,6 +16,7 @@ a {
     color: inherit;
 }
 
+
 /* Header and Navigation */
 header {
     background-color: #fff;
@@ -91,9 +92,10 @@ nav {
 }
 
 .hero p {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     margin-bottom: 2rem;
 }
+
 
 .cta-button {
     background-color: #38b0ff;
